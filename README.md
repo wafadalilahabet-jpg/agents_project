@@ -13,7 +13,7 @@ This project builds a **LangChain Agent** that can:
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/agents_project.git
+   git clone https://github.com/wafadalilahabet-jpg/customer-feedback-nlp.git
    cd agents_project
    ```
 
@@ -70,3 +70,4 @@ The agent will:
 - Add more tools (arXiv, PubMed, news APIs)  
 - Summarize sources automatically  
 - Build a front-end (Streamlit or Gradio)
+
